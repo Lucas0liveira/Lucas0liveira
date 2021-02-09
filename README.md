@@ -21,7 +21,7 @@
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leo0liveira&show_icons=true&theme=radical&include_all_commits=true&custom_title=My%20GitHub%20Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucas0liveira&show_icons=true&theme=radical&include_all_commits=true&custom_title=My%20GitHub%20Stats"/>
 </p>
 
 
